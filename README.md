@@ -130,9 +130,3 @@ For inquiries, collaborations, or feedback, feel free to reach out!
 
 ---
 
-> ✅ Feel free to replace **preview image links**, **live demo link**, and **author name** in the places marked!  
-> ✅ Also, you can add a **credits** section if you followed a tutorial or heavily based it on a resource.
-
----
-
-Would you like me to also give you a quick, shorter `README.md` version too (for example, if you want a lighter/mini version)? 🚀
